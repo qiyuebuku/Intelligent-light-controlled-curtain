@@ -1,0 +1,22 @@
+QMAKE_CXX.INCDIRS = \
+    E:/AndroidNDK/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/include \
+    E:/AndroidNDK/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed \
+    E:/AndroidNDK/android-ndk-r12b/platforms/android-16/arch-arm/usr/include
+QMAKE_CXX.LIBDIRS = \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/armv7-a \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/arm-linux-androideabi/lib/armv7-a \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9.x \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc \
+    e:/androidndk/android-ndk-r12b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/arm-linux-androideabi/lib \
+    E:/AndroidNDK/android-ndk-r12b/platforms/android-16/arch-arm/usr/lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 9
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION

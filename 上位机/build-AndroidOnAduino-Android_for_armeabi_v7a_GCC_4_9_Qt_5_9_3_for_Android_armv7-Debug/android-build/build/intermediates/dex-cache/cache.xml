@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\11946\Desktop\QtForAndroid\build-AndroidOnAduino-Android_for_armeabi_v7a_GCC_4_9_Qt_5_9_3_for_Android_armv7-Debug\android-build\libs\QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c9208ae261ab5cbec53c6cf8df84b9bf3b592e29">
+        <dex dex="C:\Users\11946\Desktop\QtForAndroid\build-AndroidOnAduino-Android_for_armeabi_v7a_GCC_4_9_Qt_5_9_3_for_Android_armv7-Debug\android-build\build\intermediates\pre-dexed\debug\QtAndroidBearer-bundled_2f030ae71d9f3b052c0b3c3945f24f64194607fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\11946\Desktop\QtForAndroid\build-AndroidOnAduino-Android_for_armeabi_v7a_GCC_4_9_Qt_5_9_3_for_Android_armv7-Debug\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="624b2c9f46147c943034a83c499712284bc2d818">
+        <dex dex="C:\Users\11946\Desktop\QtForAndroid\build-AndroidOnAduino-Android_for_armeabi_v7a_GCC_4_9_Qt_5_9_3_for_Android_armv7-Debug\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_54b3a81535b71a2d79478a13564a3c3367f8c0e7.jar" />
+    </item>
+
+</items>

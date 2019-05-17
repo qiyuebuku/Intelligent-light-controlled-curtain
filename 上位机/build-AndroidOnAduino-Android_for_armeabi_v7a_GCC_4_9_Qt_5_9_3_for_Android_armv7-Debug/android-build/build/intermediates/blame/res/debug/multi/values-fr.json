@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\11946\\Desktop\\QtForAndroid\\build-AndroidOnAduino-Android_for_armeabi_v7a_GCC_4_9_Qt_5_9_3_for_Android_armv7-Debug\\android-build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "E:\\Qt\\Qt5.9.3\\5.9.3\\android_armv7\\src\\android\\java\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 117,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 121,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "E:\\Qt\\Qt5.9.3\\5.9.3\\android_armv7\\src\\android\\java\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 121,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 125,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "E:\\Qt\\Qt5.9.3\\5.9.3\\android_armv7\\src\\android\\java\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 125,
+                        "endOffset": 178
+                    }
+                }
+            }
+        ]
+    }
+]
